@@ -519,7 +519,7 @@ show_menu() {
   ${green}9.${plain} Stop x-ui
   ${green}10.${plain} Reboot x-ui
   ${green}11.${plain} View x-ui Status
-  ${green}12.${plain} 查看 x-ui Logs
+  ${green}12.${plain} View x-ui Logs
 ————————————————
   ${green}13.${plain} Set x-ui to boot up automatically
   ${green}14.${plain} Cancel x-ui boot-up
