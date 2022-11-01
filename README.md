@@ -1,7 +1,7 @@
 # x-ui
 
-Multi-protocol, multi-user xray panel support
-Features
+Multi-protocol, multi-user XRAY panel support
+Features (English version)
 
 # System status monitoring
 - Support multi-user and multi-protocol, web visualization operation
@@ -45,13 +45,13 @@ systemctl restart x-ui
 > This docker tutorial and docker image is provided by
 [Chasing66](https://github.com/Chasing66)
 
-1. Installing docker
+1. Install docker
 
 ```shell
 curl -fsSL https://get.docker.com | sh
 ```
 
-2. Installing x-ui
+2. Install x-ui
 
 ```shell
 mkdir x-ui && cd x-ui
