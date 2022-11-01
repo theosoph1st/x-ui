@@ -80,3 +80,4 @@ func (s *AllSetting) CheckValid() error {
 
 	return nil
 }
+
