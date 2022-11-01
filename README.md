@@ -17,7 +17,7 @@ Features (English version)
 # Installation & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/theosoph1st/x-ui-en/master/install.sh)
 ```
 
 ## Manual Installation & Upgrade
@@ -104,7 +104,7 @@ X-UI supports daily traffic notifications and panel login reminders via Tg bot. 
 - Tg robot cycle running time, using crontab syntax
 
 Reference syntax:
-- 30 * * * * * //每一分的第30s进行通知
+- 30 * * * * * //Notification at 30s of each point
 - 30 * * * * * * //notify on the 30ths of every minute
 - @hourly // hourly notification
 - @daily //daily notification (at 00:00 am sharp)
