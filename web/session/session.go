@@ -44,3 +44,4 @@ func ClearSession(c *gin.Context) {
 	})
 	s.Save()
 }
+
